@@ -1,0 +1,16 @@
+----=-=----
+SS1 Student's t test
+    Student's t test need your data to follow a normal distribution, if not or you're not sure about it, you should choose Wilcox's rank sum test instead.
+----=-=----
+SS2 Correlation analysis
+    Pearson's rank correlation analysis need your data to follow a normal distribution, if not or you're not sure about it, you should choose Spearman's rank correlation analysis instead.
+
+
+
+
+
+
+
+
+
+
